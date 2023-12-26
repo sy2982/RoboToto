@@ -1,4 +1,4 @@
-Author: ethanlipson - PyLX-16A
+#Author: ethanlipson - PyLX-16A
 
 from typing import Union
 from math import pi
