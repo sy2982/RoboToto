@@ -1,1 +1,2 @@
-RoboToto is a hands-on project that combines mechanical design, software development, and 3D printing to create a functional quadruped robot. The project aims to provide enthusiasts, hobbyists, and students with a comprehensive learning experience in robotics and programming.
+# Introduction
+RoboToto is a hands-on project that combines mechanical design, software development, and 3D printing to create a functional quadruped robot. The project aims to provide enthusiasts, hobbyists, and students with a comprehensive learning experience in robotics and programming. The code is run on a Raspberry Pi 4 using headless display and connected with VNC viewer using the Pi as the hotspot connection.
